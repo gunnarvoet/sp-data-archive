@@ -6,3 +6,7 @@
 	path = bathy
 	url = https://github.com/gunnarvoet/sp-data-archive-bathy
 	datalad-id = af35625c-3419-48ad-acae-089bb80dcaec
+[submodule "towyo"]
+	path = towyo
+	url = https://github.com/gunnarvoet/sp-data-archive-towyo
+	datalad-id = bae1c087-d1d1-4503-8059-afe3c7dd648a
