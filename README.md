@@ -18,7 +18,7 @@ Turbulence microstructure data haven been archived at [microstructure.ucsd.edu](
 ### Citing the Data
 All datasets listed here have a [Creative Commons Zero 1.0 Universal Public Domain Dedication](https://creativecommons.org/publicdomain/zero/1.0/) which basically means you can use the data any way you like.
 However, there are several ways to cite the data or associated scientific publications. Each subdataset has an associated doi, see the `CITATION.cff` files in the repositories for further information.
-If you work with more than one of the subdatasets, you can also cite the data using the doi for this parent repository.
+If you work with more than one of the subdatasets, you can also cite the data using the doi for this parent repository (10.5281/zenodo.7226653).
 Depending on your research scope and the data you will be using, you may also want to consider citing one or more of the following papers:
 
 Alford, M. H. , Girton, J. B. , Voet, G. , Carter, G. S. , Mickett, J. B. , and Klymak, J. M. (2013). Turbulent mixing and hydraulic control of abyssal water in the Samoan Passage, Geophys. Res. Lett., https://doi.org/10.1002/grl.50684.
