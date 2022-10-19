@@ -1,0 +1,32 @@
+{
+    "description":"<p>Samoan Passage Data Archive. Please note that the copy here on zenodo contains only the GitHub repository, data are stored elsewhere.</p>\n\n<p>Head to <a href=\"https://github.com/gunnarvoet/sp-data-archive\">https://github.com/gunnarvoet/sp-data-archive</a> for instructions on how to obtain the data.", 
+    "license": "cc-zero",
+    "title": "Samoan Passage Data Archive", 
+    "notes": "If you use this dataset, consider citing it using the metadata from CITATION.cff.", 
+    "grants": [
+        {"id": "10.13039/100000001::1029268"},
+        {"id": "10.13039/100000001::1029483"}
+    ], 
+    "creators": [
+      {
+        "orcid": "0000-0003-1975-186X", 
+        "affiliation": "Scripps Institution of Oceanography, UC San Diego", 
+        "name": "Voet, Gunnar"
+      }, 
+      {
+        "affiliation": "Scripps Institution of Oceanography, UC San Diego", 
+        "name": "Alford., Matthew H."
+      }, 
+      {
+        "orcid": "0000-0001-5692-3216", 
+        "affiliation": "Applied Physics Laboratory, University of Washington", 
+        "name": "Girton, James B."
+      }, 
+      {
+        "orcid": "0000-0001-6630-7513", 
+        "affiliation": "University of Hawaii at M\u0101noa", 
+        "name": "Carter, Glenn S."
+      }
+    ], 
+    "access_right": "open"
+}
